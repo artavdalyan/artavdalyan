@@ -3,7 +3,8 @@ Howdy, I’m Artur. I’m a senior software engineer living in Armenia, Yerevan.
 
 [![GitHub Badge](https://img.shields.io/badge/-@artur--avdalyan-%23181717?style=flat&logo=github)](https://github.com/artavdalyan) [![Gmail Badge](https://img.shields.io/badge/-art.avdalyan89@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:art.avdalyan89@gmail.com)](mailto:art.avdalyan89@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-@arturavdalyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-a-4aa8bb135//)](https://www.linkedin.com/in/arthur-a-4aa8bb135/)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=artavdalyan&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=artavdalyan&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide=issues,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Metrics](./github-metrics.svg)
