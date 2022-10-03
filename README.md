@@ -5,7 +5,7 @@ Howdy, I’m Artur. I’m a senior software engineer living in Armenia, Yerevan.
 <!--
 **artavdalyan/artavdalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![metrics](./github-metrics.svg)
+![Metrics](/github-metrics.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
