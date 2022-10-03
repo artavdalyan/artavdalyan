@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Howdy, I’m Artur. I’m a software engineer living in Armenia, Yerevan. I am a fan of technology, cycling, and programming. I’m also interested in video games and gym. You can hire me with a click on the button above.
+#Howdy, I’m Artur. I’m a software engineer living in Armenia, Yerevan. I am a fan of technology, cycling, and programming. I’m also interested in video games and gym. You can hire me with a click on the button above.
 
 <!--
 **artavdalyan/artavdalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
